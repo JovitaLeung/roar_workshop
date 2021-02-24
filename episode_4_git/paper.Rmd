@@ -32,5 +32,3 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Exercise
 I am writing this new line to add to the file. 
 I am writing another line of code to the file. 
-I am adding this new empty line of code.
-
